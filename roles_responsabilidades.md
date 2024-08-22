@@ -20,9 +20,9 @@ A continuación, se enumeran los roles clave necesarios para la ejecución exito
 
 | Rol                   | Responsabilidades                                                                            | Asignado a          |
 |-----------------------|----------------------------------------------------------------------------------------------|---------------------|
-| **Project Manager**       | Gestión general del proyecto, planificación, seguimiento de tareas, comunicación con el cliente. | Nombre del PM       |
-| **Desarrollador**         | Implementación de código, desarrollo de funcionalidades, revisión de código, resolución de problemas técnicos. | Nombre del Dev      |
-| **Tester**                | Pruebas funcionales, pruebas de regresión, asegurar la calidad del producto.                  | Nombre del Tester   |
-| **Analista de Negocios**  | Recopilación de requisitos, análisis de procesos, documentación de requisitos.                | Nombre del Analista |
-| **Diseñador UX/UI**       | Diseño de la interfaz de usuario, mejora de la experiencia de usuario.                        | Nombre del Diseñador |
-| **DevOps Engineer**       | Gestión de infraestructura, automatización de procesos de desarrollo y despliegue.            | Nombre del DevOps   |
+| **Project Manager(Juan Anguiano)**       | Gestión general del proyecto, planificación, seguimiento de tareas, comunicación con el cliente. | Nombre del PM       |
+| **Desarrollador(Juan Anguiano)**         | Implementación de código, desarrollo de funcionalidades, revisión de código, resolución de problemas técnicos. | Nombre del Dev      |
+| **Tester(Diego Ibarra)**                | Pruebas funcionales, pruebas de regresión, asegurar la calidad del producto.                  | Nombre del Tester   |
+| **Analista de Negocios(Diego Ibarra)**  | Recopilación de requisitos, análisis de procesos, documentación de requisitos.                | Nombre del Analista |
+| **Diseñador UX/UI(Julian Ramirez)**       | Diseño de la interfaz de usuario, mejora de la experiencia de usuario.                        | Nombre del Diseñador |
+| **DevOps Engineer(Juan Anguiano)**       | Gestión de infraestructura, automatización de procesos de desarrollo y despliegue.            | Nombre del DevOps   |
